@@ -14,4 +14,5 @@ Also, I have used these newly learned concepts and put them to test via a series
 | 🛠️ Practice Space       | A place of experiments    |
 | Proving grounds         | A place of implementations |
 
-Feel free to explore, learn, and have fun! 🎉
+
+In this repo I have also solved the kaggle Competition https://www.kaggle.com/competitions/playground-series-s4e11, with a val accuracy of ~93%
